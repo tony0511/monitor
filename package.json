@@ -1,0 +1,13 @@
+{
+  "name": "monitor",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {},
+  "devDependencies": {
+  },
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
